@@ -1,0 +1,34 @@
+name: Corrective
+analytics: {}
+github: true
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.02446749
+color:
+  lightness: 0.8928044
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  saturation: 0.1765376
+  brandStrength: 0.1379462
+  rhythmicContrast: 0.6216332
+content_rating:
+  adult: false
+typography_spectrum: 0.9980282
+opengraph: {}
+title: 'Health, fitness, function'
